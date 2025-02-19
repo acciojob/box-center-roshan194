@@ -4,5 +4,9 @@
 	width: 200px;
 	background-color: lightblue;
 	margin: auto;
-	border: 2px thick black;
+	border: 2px solid black;
+}
+.eg1 {
+	color: purple;
+	text-align: center;
 }
