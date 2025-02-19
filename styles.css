@@ -1,1 +1,8 @@
 /*  your css code here. If applicable */
+.eg {
+	height: 200px;
+	width: 200px;
+	background-color: lightblue;
+	margin: auto;
+	border: 2px thick black;
+}
